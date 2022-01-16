@@ -1,14 +1,14 @@
-# Congiguratio
+# Congiguration
 
 1. Add .env file in the rootfolder.
 2. Create APIKEY for news api to access the news data.
 
-# Server setup procedure
+# Dev Server setup process
 
 1. npm install
 2. Run "npm run dev"
 
-# client setup
+# client Dev setup process
 
 1. yarn install inside client folder.
 2. Run "yarn start".
