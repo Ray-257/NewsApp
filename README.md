@@ -1,7 +1,8 @@
 # Congiguration
 
 1. Add .env file in the rootfolder.
-2. Create APIKEY for news api to access the news data.
+2. Copy keys from .env.default file and to .env
+3. Create APIKEY for news api to access the news data.
 
 # Dev Server setup process
 
