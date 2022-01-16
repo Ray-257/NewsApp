@@ -8,7 +8,7 @@
 1. npm install
 2. Run "npm run dev"
 
-# client Dev setup process
+# client setup process
 
 1. yarn install inside client folder.
 2. Run "yarn start".
